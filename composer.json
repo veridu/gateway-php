@@ -1,0 +1,30 @@
+{
+    "name": "veridu/gateway-php",
+    "description": "Gateway PHP SDK",
+    "keywords": ["veridu", "gateway", "sdk", "user identification", "social media", "online services", "single sign on"],
+    "homepage": "http://veridu.github.io/gateway-php",
+    "authors": [
+        {
+            "name": "Veridu Ltd",
+            "email": "hello@veridu.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "lcobucci/jwt": "^3.1"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.8.*",
+        "phpunit/phpunit": "4.7.*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Veridu": "src",
+            "Test": "test"
+        }
+    },
+    "suggest": {
+        "ext-json": "JSON extension"
+    }
+}
