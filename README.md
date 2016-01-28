@@ -1,5 +1,5 @@
-Veridu PHP SDK
-==============
+Veridu Gateway SDK in PHP
+=========================
 
 [![Latest Stable Version](https://poser.pugx.org/veridu/gateway-php/v/stable.png)](https://packagist.org/packages/veridu/gateway-php)
 [![Total Downloads](https://poser.pugx.org/veridu/gateway-php/downloads.png)](https://packagist.org/packages/veridu/gateway-php)
